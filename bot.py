@@ -93,5 +93,4 @@ while True:
                 say(receiver, "Dude.")
 
             if message.startswith("!help"):
-                say(receiver, "Nope.")
-
+                say(receiver, "!open - ouvre hackstub\n!close - ferme hackstub\n!alarme - nique les oreilles\n!help - RTFM")
