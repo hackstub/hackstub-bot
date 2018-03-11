@@ -92,3 +92,6 @@ while True:
             if message.startswith("!alarme"):
                 say(receiver, "Dude.")
 
+            if message.startswith("!help"):
+                say(receiver, "Nope.")
+
